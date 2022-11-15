@@ -12,7 +12,7 @@ ob_start();
  * 
  */
 
-$config['base_url'] = "http://localhost/UNITOP/Back_End/ChickenSport";
+$config['base_url'] = "http://localhost/ChickenSport";
 
 
 $config['default_module'] = 'home';
