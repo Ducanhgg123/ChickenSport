@@ -46,4 +46,3 @@ function getNearByUserAction(){
 function getUserListAction(){
     echo json_encode(getListUser());
 }
-
